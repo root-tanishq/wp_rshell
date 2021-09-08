@@ -1,4 +1,4 @@
-# WordPress revese shell Plugin Gnerator
+# WordPress revese shell Plugin Generator
 
 ## Installation
 ```
