@@ -1,6 +1,6 @@
 # ✅ WordPress reverse shell Plugin Generator
 
-## Installation
+## Installation👇
 ```
 git clone http://github.com/root-tanishq/wp_rshell
 ```
@@ -11,7 +11,7 @@ cd wp_rshell
 python3 wp_rshell.py
 ```
 
-## Tool Usage
+## Tool Usage👇
 
 Usage = `python3 wp_rshell.py [IP] [PORT] [FILE NAME]`
 
