@@ -1,4 +1,4 @@
-# WordPress revese shell Plugin Generator
+# WordPress revrese shell Plugin Generator
 
 ## Installation
 ```
@@ -13,8 +13,8 @@ python3 wp_rshell.py
 
 ## Tool Usage
 
-Usage = python3 wp_rshell.py [IP] [PORT] [FILE NAME]
+Usage = `python3 wp_rshell.py [IP] [PORT] [FILE NAME]`
 FILE NAME = Plese dont provide extension
 
 Example:-
-    # python3 wp_rshell.py 10.10.11.100 4455 payload
+    `# python3 wp_rshell.py 10.10.11.100 4455 payload`
