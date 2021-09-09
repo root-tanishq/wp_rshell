@@ -13,7 +13,7 @@ python3 wp_rshell.py
 
 ## Tool Usage
 
-Usage = `python3 wp_rshell.py [IP] [PORT] [FILE NAME]`
+Usage = `python3 wp_rshell.py [IP] [PORT] [FILE NAME]`\n
 FILE NAME = Plese dont provide extension
 
 Example:-
